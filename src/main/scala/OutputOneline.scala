@@ -1,5 +1,3 @@
-package test
-
 /**
  * Created by FergusChen on 2016/1/1.
  */
